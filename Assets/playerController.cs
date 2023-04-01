@@ -20,6 +20,9 @@ public class playerController : MonoBehaviour
     {
         Horizontal = Input.GetAxisRaw("Horizontal");
         Vertical = Input.GetAxisRaw("Vertical");
+
+
+        //TEST COMMENT
     }
 
     void FixedUpdate()
